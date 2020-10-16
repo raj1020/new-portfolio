@@ -1,0 +1,21 @@
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+
+}  
+
+.header{
+    height: 700px;
+    width: 100%;
+    background-image:url("Images/Prad_pic2.jpg") ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header h5{
+    font-size: 40px;
+    font-weight: 700;
+    color: #f1d550;
+    margin-top: 85px;
+}
