@@ -11,6 +11,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    position: relative;
 }
 
 .header h5{
@@ -19,3 +20,4 @@
     color: #f1d550;
     margin-top: 85px;
 }
+
